@@ -4,7 +4,7 @@ A simple Wikipedia-style webpage built using **pure HTML**.
 It displays HTML escape sequences in a structured table format.
 
 🔗 Live Demo:
-https://abhishek-akkal.github.io/markup-hub-html/
+https://markup-hub-html.vercel.app/
 
 ---
 
