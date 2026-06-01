@@ -35,4 +35,4 @@ https://github.com/abhishek-akkal/Wikipedia
 
 ---
 
-**Author:** Abhishek Akkal
+**Author:** Abhishek
